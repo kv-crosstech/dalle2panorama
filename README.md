@@ -109,6 +109,8 @@ Add support for local models (will try Disco diffusion, Latent Diffusion and Sta
 
 Add other cloud models like Stable Diffusion (if they release API), Midjourney (if they release API and inpainting)
 
+Add support for using multiple models for generation/inpainting/expanding at the same time. For example generate with Stable Diffusion/Midjourney and then inpaint with DALL·E 2 or vice versa.
+
 ## Changelog
 
 `v0.0.1` 
